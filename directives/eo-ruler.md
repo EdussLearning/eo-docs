@@ -1,2 +1,2 @@
-<eo-ruler> Directive
+<<eo-ruler>> Directive
 ======
