@@ -1,2 +1,0 @@
-Directive : eo-digit
-======
